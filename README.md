@@ -6,7 +6,7 @@ Estou no 3º semestre do curso de Bacharelado em Ciência da Computação no IFC
 Na empresa, atuo mantendo componentes relacionados com migração de dados e elaboro implementações relacionadas a um sistema de Folha de Pagamento.
 
 ### Objetivos atuais
-- Aprender Rust, uma alternativa ao C++;
+- Aprender [Rust](https://www.rust-lang.org/), uma alternativa ao C++;
 - Buildar e utilizar [Codon](https://exaloop.io/) no Windows;
 - Estudar matriz de projeção, de rotação e transformações lineares (Álgebra Linear). Implementar exemplos em código.
 
