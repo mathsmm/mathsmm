@@ -7,7 +7,7 @@ Na empresa, atuo mantendo componentes relacionados com migração de dados e ela
 
 ### Objetivos atuais
 - Aprender Rust, uma alternativa ao C++;
-- Buildar e utilizar Codon (Python) no Windows;
+- Buildar e utilizar [Codon](https://exaloop.io/) no Windows;
 - Estudar matriz de projeção, de rotação e transformações lineares (Álgebra Linear). Implementar exemplos em código.
 
 ### Ideias de projetos
