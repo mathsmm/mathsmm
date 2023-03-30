@@ -8,7 +8,7 @@ Na empresa, atuo mantendo componentes relacionados com migração de dados e ela
 ### Objetivos atuais
 - Aprender Rust, uma alternativa ao C++;
 - Buildar e utilizar Codon (Python) no Windows;
-- Estudar matriz de projeção, de rotação e transformações lineares. Relacionar com Álgebra Linear e implementar em código.
+- Estudar matriz de projeção, de rotação e transformações lineares (Álgebra Linear). Implementar exemplos em código.
 
 ### Ideias de projetos
  - Engine feita em Rust e SDL2;
