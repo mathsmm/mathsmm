@@ -7,11 +7,13 @@ Na empresa, atuo mantendo componentes relacionados com migração de dados e ela
 
 ### Objetivos atuais
 - Aprender [Rust](https://www.rust-lang.org/), uma alternativa ao C++;
-- Buildar e utilizar [Codon](https://exaloop.io/) no Windows;
-- Estudar matriz de projeção, de rotação e transformações lineares (Álgebra Linear). Implementar exemplos em código.
+- Estudar matriz de projeção, de rotação e transformações lineares (Álgebra Linear);
+- Buildar e utilizar [Codon](https://exaloop.io/) no Windows.
 
 ### Ideias de projetos
  - Engine feita em Rust e SDL2;
- - Algoritmo para criar fórmulas da Lógica Proposicional, avaliá-las e escrevê-las em pré-ordem, em-ordem e pós-ordem (A princípio, em Rust).
+ - Algoritmo para criar fórmulas da Lógica Proposicional, avaliá-las e escrevê-las em pré-ordem, em-ordem e pós-ordem (A princípio, em Rust);
+ - Algoritmos para operar matrizes, calcular determinantes e manipular filas;
+ - Script para formatar um arquivo de texto em sua respectiva linguagem.
  
- Os esboços estão em [ideias-nao-requintadas](https://github.com/mathsmm/ideias-nao-requintadas).
+ Há esboços no repositório [ideias-nao-requintadas](https://github.com/mathsmm/ideias-nao-requintadas).
