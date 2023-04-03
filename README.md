@@ -1,7 +1,7 @@
 ### Sobre mim
 Chamo-me Matheus Marchi Moro e aprecio o campo da Computação e seus desdobramentos técnicos e científicos.
 
-Estou no 3º semestre do curso de Bacharelado em Ciência da Computação no IFC Campus Blumenau e estagio na empresa SCI Sistemas Contábeis como programador desde julho de 2023. 
+Estou no 3º semestre do curso de Bacharelado em Ciência da Computação no IFC Campus Blumenau e estagio na empresa SCI Sistemas Contábeis como programador desde julho de 2022. 
 
 Na empresa, atuo mantendo componentes relacionados com migração de dados e elaboro implementações para um sistema de Folha de Pagamento.
 
