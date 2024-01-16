@@ -4,7 +4,14 @@ Estudo Ciência da Computação no IFC Campus Blumenau. Atualmente no quinto sem
 Trabalho com implementações para Migração de Dados e Folha de Pagamento na SCI Sistemas Contábeis.
 
 ### Minha lista de tarefas
-- [ ] [Estudo] Entender boa parte da linguagem de programação Rust;
+- [ ] [Estudo] Entender a linguagem de programação Rust;
+  - [X] O relacionamento entre Rust, a pilha (stack) e a área de alocação dinâmica (heap);
+  - [X] Posse, domínio (Ownership) e Empréstimos (Borrowing);
+  - [X] Struct, Enum e Impl;
+  - [ ] Organização de módulos, pacotes binários e bibliotecas;
+  - [ ] Tipos genéricos, Trait e tempos de vida;
+  - [ ] Tratamento de erros e testes automatizados;
+  - [ ] ...
 - [ ] [Estudo] Aprender mais a fundo sobre bancos de dados (Elmasri - Fundamentals of Database Systems);
 - [ ] [Estudo] Aprender sobre DevOps;
 - [ ] [Projeto] Migrar a estrutura de dados de Grafos, feita em Python, para a linguagem Rust ([Link do repositório em Python](https://github.com/mathsmm/bcc-ed2-grafos));
