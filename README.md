@@ -1,7 +1,10 @@
 ### Olá! Sou o Matheus Marchi Moro
 
 Estudo Ciência da Computação no IFC Campus Blumenau. Atualmente no quinto semestre;<br>
-Trabalho com implementações para Migração de Dados e Folha de Pagamento na SCI Sistemas Contábeis.
+Trabalho na SCI Sistemas Contábeis com:
+- Migração de Dados;
+- Implementações para Sistema de Folha de Pagamento;
+- Navegações com Selenium.
 
 ### Contato
 - Email: [marchimm2003@gmail.com](mailto:marchimm2003@gmail.com)
