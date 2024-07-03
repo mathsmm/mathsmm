@@ -4,7 +4,7 @@ Estudo Ciência da Computação no IFC Campus Blumenau. Atualmente no quinto sem
 Trabalho na SCI Sistemas Contábeis com:
 - Migração de Dados;
 - Implementações para Sistema de Folha de Pagamento;
-- Navegações com Selenium.
+- *Web Scraping* com Selenium.
 
 ### Contato
 - Email: [marchimm2003@gmail.com](mailto:marchimm2003@gmail.com)
