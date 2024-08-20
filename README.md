@@ -1,6 +1,6 @@
 ### Olá! Sou o Matheus Marchi Moro
 
-Estudo Ciência da Computação no IFC Campus Blumenau. Atualmente no quinto semestre;<br>
+Estudo Ciência da Computação no IFC Campus Blumenau. Atualmente no sexto semestre;<br>
 Trabalho na SCI Sistemas Contábeis com:
 - Migração de Dados;
 - Implementações para Sistema de Folha de Pagamento;
