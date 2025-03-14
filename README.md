@@ -1,10 +1,15 @@
 ### Olá! Sou o Matheus Marchi Moro
 
-Estudo Ciência da Computação no IFC Campus Blumenau. Atualmente no sexto semestre;<br>
-Trabalho na SCI Sistemas Contábeis com:
-- Migração de Dados;
-- Implementações para Sistema de Folha de Pagamento;
-- *Web Scraping* com Selenium.
+### Trabalho
+- 02/2025 até Hoje - Benner Sistemas Blumenau
+  - Implementações para sistema de Logística e Frotas (Csharp e Delphi).
+- 06/2022 até 02/2025 - SCI Sistemas Contábeis
+  - Migração de Dados;
+  - Implementações para Sistema de Folha de Pagamento (Delphi);
+  - *Web Scraping* com Selenium (Python).
+
+### Estudo
+- Ciência da Computação (7/8) - IFC Blumenau;<br>
 
 ### Contato
 - Email: [marchimm2003@gmail.com](mailto:marchimm2003@gmail.com)
