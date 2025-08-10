@@ -2,10 +2,10 @@
 
 ### Trabalho
 - 02/2025 até Hoje - Benner Sistemas Blumenau
-  - Implementações para sistema de Logística e Frotas (Csharp e Delphi).
+  - Implementações para sistema de Logística (Csharp e Delphi).
 - 06/2022 até 02/2025 - SCI Sistemas Contábeis
   - Migração de Dados;
-  - Implementações para Sistema de Folha de Pagamento (Delphi);
+  - Manutenção de sistema de Folha de Pagamento (Delphi);
   - *Web Scraping* com Selenium (Python).
 
 ### Estudo
